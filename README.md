@@ -39,5 +39,4 @@ You can also run it as a single command from OS shell:
     > sbt clean test
 
 This will run all tests.
-
-    
+ 
